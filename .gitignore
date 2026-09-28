@@ -1,0 +1,6 @@
+# The raw month is about 400MB and the DuckDB file larger; fetch_data.py and
+# run_analysis.py rebuild both. outputs/ and charts/ are committed, so the notebook and
+# the write-up can be read without downloading anything.
+data/
+__pycache__/
+.ipynb_checkpoints/

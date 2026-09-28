@@ -1,0 +1,5 @@
+group_name,trips,to_arrive_min,at_curb_min,to_arrive_share_pct
+All rides,20388495,4.8,1.0,83.3
+"Long waits, airports",184530,13.2,1.5,90.0
+"Long waits, all",2454913,12.9,1.2,91.7
+"Long waits, city",2270383,12.8,1.1,91.8
